@@ -48,9 +48,9 @@ More reasons:
 
 There are two different "modes" in vim:
 
-**insert mode** - here you have access to powerful commands within vim
+**normal mode** - here you have access to powerful commands within vim
 
-**edit mode** - here you can edit your file as you can in any other editor
+**edit/insert mode** - here you can edit your file as you can in any other editor
 
 ## Open and close a file
 
