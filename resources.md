@@ -16,3 +16,6 @@
 
 - [Best of Vim Tips](http://rayninfo.co.uk/vimtips.html) (cheatsheet of commands
   built over 16 years of Vi + 8+ years of Vim)
+- [What is your most productive shortcut with
+  Vim?](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
+  (explaining the "zen" of vi/vim as a "language")
