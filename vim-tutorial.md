@@ -73,6 +73,16 @@ Press <Esc>
 
 Source: http://hjkl.com/
 
+## Rest of Tutorial
+
+Complete `vimtutor`:
+
+``` {.bash .numberLines}
+vimtutor
+```
+
+Play Vim Golf at [http://vimgolf.com/](http://vimgolf.com/)
+
 ## Resources
 
 Vim Golf - [http://vimgolf.com/](http://vimgolf.com/)
