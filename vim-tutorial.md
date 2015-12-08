@@ -46,11 +46,13 @@ More reasons:
 
 ## Basic concepts in vim
 
-There are two different "modes" in vim:
+There are three different "modes" in vim:
 
 **normal mode** - here you have access to powerful commands within vim
 
 **edit/insert mode** - here you can edit your file as you can in any other editor
+
+**visual mode** - here is where you can select text and run commands on them
 
 ## Open and close a file
 
