@@ -23,3 +23,10 @@
 - [What is your most productive shortcut with
   Vim?](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
   (explaining the "zen" of vi/vim as a "language")
+- [Damian Conway, "More Instantly Better Vim" - OSCON 
+  2013](https://www.youtube.com/watch?v=aHm36-na4-4) (some neat additions to make vim better)
+
+## Example Configurations
+
+- [Damian Conway's Vim Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup) (from
+  above YouTube video)
