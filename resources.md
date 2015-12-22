@@ -15,6 +15,7 @@
   developed after the author turned his collection of Vim notes into a book)
 - [Vim Adventures](http://vim-adventures.com/) (fun game to learn how to move
   well in Vim for free but can pay for more learning opportunities)
+- [Open Vim](http://www.openvim.com/tutorial.html) (another interactive tutorial)
 
 ## Vim Tips
 
