@@ -31,3 +31,16 @@
 
 - [Damian Conway's Vim Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup) (from
   above YouTube video)
+
+## Vimscript (Advanced Vim Customization)
+
+- [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+  (teaches Vimscript by doing instead of telling)
+- [Vim Scripts](http://www.vim.org/scripts/index.php) (uploaded Vimscripts from
+  users)
+- [Five Minute Vimscript](http://andrewscala.com/vimscript/) (basics of
+  Vimscript)
+- [awesome-vim](https://github.com/matteocrippa/awesome-vim) (collaborative list
+  of vim resources)
+- [Awesome Vim](https://github.com/akrawchyk/awesome-vim) (another collaborative
+  list of vim resources)
