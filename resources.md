@@ -35,7 +35,7 @@
 ## Vimscript (Advanced Vim Customization)
 
 - [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
-  (teaches Vimscript by doing instead of telling)
+  (teaches Vimscript to highly customize Vim by doing instead of telling)
 - [Vim Scripts](http://www.vim.org/scripts/index.php) (uploaded Vimscripts from
   users)
 - [Five Minute Vimscript](http://andrewscala.com/vimscript/) (basics of
