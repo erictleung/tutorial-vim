@@ -18,16 +18,17 @@ Movements in vim
 
 ## What is vim?
 
-`vim` is a [highly configurable text
-editor](https://en.wikipedia.org/wiki/Vim_(text_editor)) first released 2
-November 1991.
+`vim` is a [highly configurable text editor][wiki-vim] first released 2 November
+1991.
 
-It's roots go back to a [similar editor called
-`vi`](https://en.wikipedia.org/wiki/Vi). `vim` is actually a contraction of "Vi
-IMproved."
+It's roots go back to a [similar editor called `vi`][vi] `vim` is actually a
+contraction of "Vi IMproved."
 
 `vim` can be downloaded at http://www.vim.org/download.php or through your
-package manager
+package manager.
+
+[wiki-vim]: https://en.wikipedia.org/wiki/Vim_(text_editor)
+[vi]: https://en.wikipedia.org/wiki/Vi
 
 ## Why use vim?
 
@@ -35,14 +36,16 @@ package manager
 2. Smart regular expressions
 3. Precise selections and manipulations
 4. Precise and faster movement
-5. [Vim on the internet](https://github.com/terriburns/Vim-On-The-Internet)
+5. [Vim on the internet][vim-net]
 
 More reasons:
 
-- ["Why, oh WHY, do these #?@! nutheads use
-  vi?"](http://www.viemu.com/a-why-vi-vim.html)
-- ["Why Atom Can't Replace
-  Vim"](https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1#.549pcukc3)
+- ["Why, oh WHY, do these #?@! nutheads use vi?"][why-vim]
+- ["Why Atom Can't Replace Vim"][atom]
+
+[vim-net]: https://github.com/terriburns/Vim-On-The-Internet
+[why-vim]: http://www.viemu.com/a-why-vi-vim.html
+[atom]: https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1#.549pcukc3
 
 ## Basic concepts in vim
 
@@ -83,12 +86,17 @@ Complete `vimtutor` on your local computer or on Church if you don't have Vim:
 $ vimtutor
 ```
 
-Play Vim Golf at [http://vimgolf.com/](http://vimgolf.com/)
+Play Vim Golf at [http://vimgolf.com/][vimgolf]
+
+[vimgolf]: http://vimgolf.com/
 
 ## Resources
 
-Vim Golf - [http://vimgolf.com/](http://vimgolf.com/)
+Vim Golf - [http://vimgolf.com/][vimgolf]
 
-VIM Adventures - [http://vim-adventures.com/](http://vim-adventures.com/)
+VIM Adventures - [http://vim-adventures.com/][vim-adventure]
 
-Stackoverflow references - [http://stackoverflow.com/tags/vim/info](http://stackoverflow.com/tags/vim/info)
+Stackoverflow references - [http://stackoverflow.com/tags/vim/info][stack]
+
+[vim-adventure]: http://vim-adventures.com/
+[stack]: http://stackoverflow.com/tags/vim/info
