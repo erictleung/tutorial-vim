@@ -21,7 +21,7 @@ Movements in vim
 `vim` is a [highly configurable text editor][wiki-vim] first released 2 November
 1991.
 
-It's roots go back to a [similar editor called `vi`][vi] `vim` is actually a
+It's roots go back to a [similar editor called `vi`][vi]. `vim` is actually a
 contraction of "Vi IMproved."
 
 `vim` can be downloaded at http://www.vim.org/download.php or through your
@@ -59,7 +59,7 @@ There are three different "modes" in vim:
 
 ## Open and close a file
 
-To open a file (and having `vim` properly installed):
+To open a file (and given you have `vim` properly installed):
 
 ``` {.bash .numberLines}
 vim file-you-want-to-open.txt
