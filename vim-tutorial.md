@@ -77,10 +77,10 @@ Source: http://hjkl.com/
 
 ## Rest of Tutorial
 
-Complete `vimtutor`:
+Complete `vimtutor` on your local computer or on Church if you don't have Vim:
 
 ``` {.bash .numberLines}
-vimtutor
+$ vimtutor
 ```
 
 Play Vim Golf at [http://vimgolf.com/](http://vimgolf.com/)
