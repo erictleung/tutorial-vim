@@ -1,11 +1,13 @@
-FILE=vim-tutorial
+# pandoc version 1.12.4.2 tested
 
-all: $(FILE).pdf
+all: vim-tutorial.pdf
 
 clean:
-	rm $(FILE).pdf
+	rm vim-tutorial.pdf
 
 .PHONY: all clean
+
+# rules
 
 %.pdf: %.md
 	pandoc -t beamer -s $< -o $@
