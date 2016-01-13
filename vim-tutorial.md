@@ -98,5 +98,9 @@ VIM Adventures - [http://vim-adventures.com/][vim-adventure]
 
 Stackoverflow references - [http://stackoverflow.com/tags/vim/info][stack]
 
+What is your most productive shortcut with vim -
+[http://stackoverflow.com/a/1220118][productive]
+
 [vim-adventure]: http://vim-adventures.com/
 [stack]: http://stackoverflow.com/tags/vim/info
+[productive]: http://stackoverflow.com/a/1220118
