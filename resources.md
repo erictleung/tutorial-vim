@@ -16,6 +16,8 @@
 - [Vim Adventures](http://vim-adventures.com/) (fun game to learn how to move
   well in Vim for free but can pay for more learning opportunities)
 - [Open Vim](http://www.openvim.com/tutorial.html) (another interactive tutorial)
+- [Hyperpolyglot Text Mode Editors](http://hyperpolyglot.org/text-mode-editors)
+  (shows how to perform various tasks in the three editors vim, emacs, and nano)
 
 ## Vim Tips
 
