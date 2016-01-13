@@ -1,7 +1,7 @@
 ---
 title: Tutorial and Introduction to vim
 author: Eric Leung
-date: December 6th, 2015
+date: January 28th, 2016
 ---
 
 ## Overview
@@ -22,14 +22,14 @@ Movements in vim, hjkl
 
 ## What is vim?
 
-`vim` is a [highly configurable text editor][wiki-vim] first released 2 November
-1991.
+A [highly configurable text editor][wiki-vim] first released 2 November
+1991
 
-It's roots go back to a [similar editor called `vi`][vi]. `vim` is actually a
-contraction of "Vi IMproved."
+Roots in [similar editor called `vi`][vi]
 
-`vim` can be downloaded at http://www.vim.org/download.php or through your
-package manager.
+`vim` contraction of "Vi IMproved"
+
+Download at http://www.vim.org/download.php or through package manager
 
 [wiki-vim]: https://en.wikipedia.org/wiki/Vim_(text_editor)
 [vi]: https://en.wikipedia.org/wiki/Vi
