@@ -14,7 +14,11 @@ Basics concepts in vim
 
 Open and close a file
 
-Movements in vim
+Seven Habits of Effective Text Editing 2.0
+
+Movements in vim, hjkl
+
+`vimtutor`, Adventures, and Golf
 
 ## What is vim?
 
@@ -72,6 +76,22 @@ Press <Esc>
 :q
 ```
 
+## Seven Habits of Effective Text Editing 2.0
+
+By the writer of vim, Bram Moolenaar:
+
+1. Detect inefficiency
+    - Find out what you waste time one
+2. Find a quicker way
+    - Read the online help
+    - Read the quick reference, books, etc.
+    - Ask friends and colleagues
+    - Search the internet
+    - Do it yourself
+3. Make it a habit
+    - Do it
+    - Keep on improving
+
 ## Move in vim using hjkl
 
 ![HJKL cursor movement keys in `vim`](images/hjkl.jpg)
@@ -101,6 +121,10 @@ Stackoverflow references - [http://stackoverflow.com/tags/vim/info][stack]
 What is your most productive shortcut with vim -
 [http://stackoverflow.com/a/1220118][productive]
 
+Seven Habits of Effective Text Editing 2.0 -
+[http://www.moolenaar.net/habits\_2007.pdf][habits]
+
 [vim-adventure]: http://vim-adventures.com/
 [stack]: http://stackoverflow.com/tags/vim/info
 [productive]: http://stackoverflow.com/a/1220118
+[habits]: http://www.moolenaar.net/habits_2007.pdf
