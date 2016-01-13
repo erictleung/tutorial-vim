@@ -29,13 +29,15 @@ Roots in [similar editor called `vi`][vi]
 
 `vim` contraction of "Vi IMproved"
 
-Download at http://www.vim.org/download.php or through package manager
+Download at [http://www.vim.org/download.php][download] or through package
+manager
 
 Side note: Tim Pope ([https://github.com/tpope][tpope]) is like the Hadley
 Wickham of Vim.
 
 [wiki-vim]: https://en.wikipedia.org/wiki/Vim_(text_editor)
 [vi]: https://en.wikipedia.org/wiki/Vi
+[download]: http://www.vim.org/download.php
 [tpope]: https://github.com/tpope
 
 ## Why use vim?
