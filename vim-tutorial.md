@@ -98,7 +98,7 @@ By the writer of vim, Bram Moolenaar:
 
 Source: http://hjkl.com/
 
-## Rest of Tutorial
+## Choose Your Path
 
 Complete `vimtutor` on your local computer or on Church if you don't have Vim:
 
@@ -106,15 +106,19 @@ Complete `vimtutor` on your local computer or on Church if you don't have Vim:
 $ vimtutor
 ```
 
+**THEN**
+
 Play Vim Golf at [http://vimgolf.com/][vimgolf]
 
+**OR**
+
+Play VIM Adventures at [http://vim-adventures.com/][vim-adventure]
+
 [vimgolf]: http://vimgolf.com/
+[vim-adventure]: http://vim-adventures.com/
 
 ## Resources
 
-Vim Golf - [http://vimgolf.com/][vimgolf]
-
-VIM Adventures - [http://vim-adventures.com/][vim-adventure]
 
 Stackoverflow references - [http://stackoverflow.com/tags/vim/info][stack]
 
@@ -127,7 +131,6 @@ Seven Habits of Effective Text Editing 2.0 -
 Vim Text Objects: The Definitive Guide -
 [http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/][text]
 
-[vim-adventure]: http://vim-adventures.com/
 [stack]: http://stackoverflow.com/tags/vim/info
 [productive]: http://stackoverflow.com/a/1220118
 [habits]: http://www.moolenaar.net/habits_2007.pdf
