@@ -20,6 +20,12 @@ Movements in vim, hjkl
 
 `vimtutor`, Adventures, and Golf
 
+## Editor Wars
+
+![](images/wars.png)
+
+Source: http://cube-drone.com/comics/c/holy-war
+
 ## What is vim?
 
 A [highly configurable text editor][wiki-vim] first released 2 November
@@ -100,7 +106,7 @@ By the writer of vim, Bram Moolenaar:
 
 ## Move in vim using hjkl
 
-![HJKL cursor movement keys in `vim`](images/hjkl.jpg)
+![](images/hjkl.jpg)
 
 Source: http://hjkl.com/
 
