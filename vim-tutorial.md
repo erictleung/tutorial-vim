@@ -122,7 +122,7 @@ Play VIM Adventures at [http://vim-adventures.com/][vim-adventure]
 
 Stackoverflow references - [http://stackoverflow.com/tags/vim/info][stack]
 
-What is your most productive shortcut with vim -
+Your problem with Vim is that you don't grok vi -
 [http://stackoverflow.com/a/1220118][productive]
 
 Seven Habits of Effective Text Editing 2.0 -
