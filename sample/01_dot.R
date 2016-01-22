@@ -1,4 +1,4 @@
-/* Remove semicolons and add opening brackets */
-bool ProcessFunkyParam(int nitems, bool properly);
-bool RecallClunkyItem(bool displace);
-bool DisposeOfAllParams(int ntrials);
+# Add opening brackets
+ProcessFunkyParam <- function(nitems, properly)
+RecallClunkyItem <- function(displace)
+DisposeOfAllParams <- function(ntrials)
