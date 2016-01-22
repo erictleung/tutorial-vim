@@ -48,11 +48,13 @@ Wickham of Vim.
 
 ## Why use vim?
 
-1. Modal editing
-2. Smart regular expressions
-3. Precise selections and manipulations
-4. Precise and faster movement
-5. [Vim on the internet][vim-net]
+Modal editing
+
+Precise selections and manipulations
+
+Precise and faster movement
+
+[Vim on the internet][vim-net]
 
 More reasons:
 
