@@ -1,5 +1,5 @@
 ---
-title: Tutorial and Introduction to vim
+title: Tutorial and Introduction to Vim
 author: Eric Leung
 date: January 28th, 2016
 ---
@@ -14,7 +14,7 @@ Why use Vim?
 
 Open and close a file
 
-Seven Habits of Effective Text Editing 2.0
+Habits of Effective Text Editing 2.0
 
 Movements in Vim, `hjkl`
 
@@ -46,6 +46,48 @@ Wickham of Vim.
 [download]: http://www.vim.org/download.php
 [tpope]: https://github.com/tpope
 
+## Overview
+
+What is Vim?
+
+**How to Vim? Basics concepts in Vim**
+
+Why use Vim?
+
+Open and close a file
+
+Habits of Effective Text Editing 2.0
+
+Movements in Vim, `hjkl`
+
+`vimtutor`, Adventures, and Golf
+
+## Basic concepts in Vim
+
+There are three different "modes" in Vim:
+
+**normal mode** - here you have access to powerful commands within Vim
+
+**edit/insert mode** - here you can edit your file as you can in any other editor
+
+**visual mode** - here is where you can select text and run commands on them
+
+## Overview
+
+What is Vim?
+
+How to Vim? Basics concepts in Vim
+
+**Why use Vim?**
+
+Open and close a file
+
+Habits of Effective Text Editing 2.0
+
+Movements in Vim, `hjkl`
+
+`vimtutor`, Adventures, and Golf
+
 ## Why use Vim?
 
 Modal editing and its "language"
@@ -65,15 +107,21 @@ More reasons:
 [why-vim]: http://www.viemu.com/a-why-vi-vim.html
 [atom]: https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1#.549pcukc3
 
-## Basic concepts in Vim
+## Overview
 
-There are three different "modes" in Vim:
+What is Vim?
 
-**normal mode** - here you have access to powerful commands within Vim
+How to Vim? Basics concepts in Vim
 
-**edit/insert mode** - here you can edit your file as you can in any other editor
+Why use Vim?
 
-**visual mode** - here is where you can select text and run commands on them
+**Open and close a file**
+
+Habits of Effective Text Editing 2.0
+
+Movements in Vim, `hjkl`
+
+`vimtutor`, Adventures, and Golf
 
 ## Open and close a file
 
@@ -90,7 +138,23 @@ Press <Esc>
 :q
 ```
 
-## Seven Habits of Effective Text Editing 2.0
+## Overview
+
+What is Vim?
+
+How to Vim? Basics concepts in Vim
+
+Why use Vim?
+
+Open and close a file
+
+**Habits of Effective Text Editing 2.0**
+
+Movements in Vim, `hjkl`
+
+`vimtutor`, Adventures, and Golf
+
+## Habits of Effective Text Editing 2.0
 
 By the writer of Vim, Bram Moolenaar:
 
@@ -106,11 +170,43 @@ By the writer of Vim, Bram Moolenaar:
     - Do it
     - Keep on improving
 
+## Overview
+
+What is Vim?
+
+How to Vim? Basics concepts in Vim
+
+Why use Vim?
+
+Open and close a file
+
+Habits of Effective Text Editing 2.0
+
+Movements in Vim, `hjkl`
+
+`vimtutor`, Adventures, and Golf
+
 ## Move in Vim using `hjkl`
 
 ![](images/hjkl.jpg)
 
 Source: http://hjkl.com/
+
+## Overview
+
+What is Vim?
+
+How to Vim? Basics concepts in Vim
+
+Why use Vim?
+
+Open and close a file
+
+Habits of Effective Text Editing 2.0
+
+Movements in Vim, `hjkl`
+
+`vimtutor`, Adventures, and Golf
 
 ## Choose Your Path
 
