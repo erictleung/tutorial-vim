@@ -125,7 +125,13 @@ Movements in Vim, `hjkl`
 
 ## Open and close a file
 
-To open a file (and given you have `vim` properly installed):
+To open new file (and given you have `vim` properly installed):
+
+```{.bash .numberLines}
+$ vim
+```
+
+To open existing file:
 
 ``` {.bash .numberLines}
 $ vim file-you-want-to-open.txt
