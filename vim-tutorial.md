@@ -182,7 +182,7 @@ Open and close a file
 
 Habits of Effective Text Editing 2.0
 
-Movements in Vim, `hjkl`
+**Movements in Vim, `hjkl`**
 
 `vimtutor`, Adventures, and Golf
 
@@ -206,7 +206,7 @@ Habits of Effective Text Editing 2.0
 
 Movements in Vim, `hjkl`
 
-`vimtutor`, Adventures, and Golf
+**`vimtutor`, Adventures, and Golf**
 
 ## Choose Your Path
 
