@@ -6,17 +6,17 @@ date: January 28th, 2016
 
 ## Overview
 
-What is vim?
+What is Vim?
 
-Why use vim?
+How to Vim? Basics concepts in Vim
 
-Basics concepts in vim
+Why use Vim?
 
 Open and close a file
 
 Seven Habits of Effective Text Editing 2.0
 
-Movements in vim, hjkl
+Movements in Vim, `hjkl`
 
 `vimtutor`, Adventures, and Golf
 
@@ -26,7 +26,7 @@ Movements in vim, hjkl
 
 Source: http://cube-drone.com/comics/c/holy-war
 
-## What is vim?
+## What is Vim?
 
 A [highly configurable text editor][wiki-vim] first released 2 November
 1991
@@ -46,9 +46,9 @@ Wickham of Vim.
 [download]: http://www.vim.org/download.php
 [tpope]: https://github.com/tpope
 
-## Why use vim?
+## Why use Vim?
 
-Modal editing
+Modal editing and its "language"
 
 Precise selections and manipulations
 
@@ -65,11 +65,11 @@ More reasons:
 [why-vim]: http://www.viemu.com/a-why-vi-vim.html
 [atom]: https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1#.549pcukc3
 
-## Basic concepts in vim
+## Basic concepts in Vim
 
-There are three different "modes" in vim:
+There are three different "modes" in Vim:
 
-**normal mode** - here you have access to powerful commands within vim
+**normal mode** - here you have access to powerful commands within Vim
 
 **edit/insert mode** - here you can edit your file as you can in any other editor
 
@@ -80,7 +80,7 @@ There are three different "modes" in vim:
 To open a file (and given you have `vim` properly installed):
 
 ``` {.bash .numberLines}
-vim file-you-want-to-open.txt
+$ vim file-you-want-to-open.txt
 ```
 
 To close a file while in `vim`:
@@ -92,7 +92,7 @@ Press <Esc>
 
 ## Seven Habits of Effective Text Editing 2.0
 
-By the writer of vim, Bram Moolenaar:
+By the writer of Vim, Bram Moolenaar:
 
 1. Detect inefficiency
     - Find out what you waste time one
@@ -106,7 +106,7 @@ By the writer of vim, Bram Moolenaar:
     - Do it
     - Keep on improving
 
-## Move in vim using hjkl
+## Move in Vim using `hjkl`
 
 ![](images/hjkl.jpg)
 
@@ -131,8 +131,7 @@ Play VIM Adventures at [http://vim-adventures.com/][vim-adventure]
 [vimgolf]: http://vimgolf.com/
 [vim-adventure]: http://vim-adventures.com/
 
-## Resources
-
+## Resources {.allowframebreaks}
 
 Stackoverflow references - [http://stackoverflow.com/tags/vim/info][stack]
 
