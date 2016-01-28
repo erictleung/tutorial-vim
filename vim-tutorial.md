@@ -90,7 +90,7 @@ Movements in Vim, `hjkl`
 
 ## Why use Vim?
 
-Modal editing and its "language"
+Modal editing and its "language" - Verb + Num + Motion
 
 Precise selections and manipulations
 
