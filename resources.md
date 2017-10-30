@@ -5,6 +5,7 @@
 - [Why, oh WHY, do those #?@! nutheads use
   vi?](http://www.viemu.com/a-why-vi-vim.html) (refutes common misconceptions of
   vim and gives examples of how powerful vim can be)
+- [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/a/1220118/6873133)
 
 ## Learning Vim
 
